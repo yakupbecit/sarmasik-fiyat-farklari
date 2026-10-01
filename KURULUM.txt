@@ -1,0 +1,5 @@
+IPHONE KURULUM
+Bu klasör PWA olarak hazırlanmıştır.
+iPhone'da uygulama gibi kullanmak için dosyaların HTTPS üzerinden yayınlanması gerekir.
+Yayınlandıktan sonra Safari'de siteyi açın -> Paylaş -> Ana Ekrana Ekle.
+ZIP'i iPhone'da açmak tek başına uygulamayı çalıştırmaz.
